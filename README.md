@@ -17,16 +17,16 @@
     <td>https://coursera.org/share/95fea612b7054859bd8530d5cee54e56</td>
   </tr>
   <tr>
-    <td>HTML and CSS in depth</td
-    <td>https://www.coursera.org/account/accomplishments/verify/FBC3CP9LJHBQutm_source=link&utm_medium=certificate&utm_content=cert_image&utmcampaign=sharing_cta&utm_product=course</td>
+    <td>HTML and CSS in depth</td>
+    <td>https://coursera.org/share/554e36b11dd05a1dfcf113cb30894f40</td>
+  </tr>
+  <tr>
+    <td>React Basics</td>
+    <td>https://coursera.org/share/5192b38b320217a4e70a26333f9691df</td>
   </tr>
   <tr>
     <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
+    <td><a href="https://www.w3schools.com">Visit W3Schools.com!</a></td>
   </tr>
   <tr>
     <td></td>
