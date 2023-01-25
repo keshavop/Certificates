@@ -1,13 +1,12 @@
 # Certificates
 
-## Meta Front-end Profesional Certificate  - Coursera
+## Meta Front-end Profesional Certificate - Coursera
 
 <table>
   <tr>
     <td>Introduction to Front-End Development</td>
     <td>https://coursera.org/share/da47779f62cfc68644306de9fd0dfb22</td>
     <td>https://github.com/keshavop/Certificates/blob/main/META%20Front-end%20Professional%20Certificate%20Coursera/META%20Advanced%20React.jpg</td>
-    <td>https://github.com/keshavop/Certificates/blob/main/META%20Front-end%20Professional%20Certificate%20Coursera/META%20Advanced%20React.pdf</td>
   </tr>
   <tr>
     <td>Programming with JavaScript</td>
@@ -43,5 +42,4 @@
   </tr>
 </table>
 
-
-## Meta Back-end Profesional Certificate  - Coursera
+## Meta Back-end Profesional Certificate - Coursera
