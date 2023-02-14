@@ -8,7 +8,7 @@
 
 | Name | Certificate verification link | Certificate image |
 | --- | --- | --- |
-| Introduction to Front-End Development | https://coursera.org/share/da47779f62cfc68644306de9fd0dfb22 | https://www.notion.so/67406253d9a949248eb02df8aea730ff |
+| Introduction to Front-End Development | https://coursera.org/share/da47779f62cfc68644306de9fd0dfb22 | https:// |
 | Programming with JavaScript | https://coursera.org/share/2d21fa57a9e462ab4ffd59bc2a6b1e9d | https://github.com/keshavop/Certificates/blob/main/META%20Front-end%20Professional%20Certificate%20Coursera/META%20Programming%20with%20JavaScript.jpg |
 | Version Control | https://coursera.org/share/95fea612b7054859bd8530d5cee54e56 | https://github.com/keshavop/Certificates/blob/main/META%20Front-end%20Professional%20Certificate%20Coursera/META%20Version%20Control.jpg |
 | HTML and CSS in depth | https://coursera.org/share/554e36b11dd05a1dfcf113cb30894f40 | https://github.com/keshavop/Certificates/blob/main/META%20Front-end%20Professional%20Certificate%20Coursera/META%20HTML%20and%20CSS%20in%20depth.jpg |
