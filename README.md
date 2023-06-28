@@ -1,23 +1,3 @@
 # Certificates
 
-## Notion Website:  
-
-<br>
-
-## META Front-end Professional Certification  Coursera
-
-
-
-## META Back-end  Professional Certification  Coursera
-
-
-
-## Udemy
-
-
-
-## Coursera Certifications
-
-
-
-## Renowned Certificates
+## Notion Website:  https://www.notion.so/keshavop/List-of-certificate-s-97c96ad0a7c3459ea347bdb987ed3e33?pvs=4
