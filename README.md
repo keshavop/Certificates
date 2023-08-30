@@ -1,3 +1,1 @@
-# Certificates
-
-## Notion Website:
+Certificates
